@@ -1,0 +1,12 @@
+# This namesheet contains all the core members of OpenTeens.
+! allow-modify: Council<VoteRate:0.2>
+! allow-modify: CoreMembers<VoteRate:0.34>
+
+@CJWZhang
+@Richard-31415
+@Nathancgy
+@BernieHuang2008
+@Lanbinshijie
+@cxzlw
+@AUXStar
+@ddos-ling
