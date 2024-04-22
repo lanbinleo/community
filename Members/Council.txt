@@ -1,0 +1,5 @@
+# This namesheet contains all the council members.
+! allow-modify: Council<VoteRate:1.0>
+
+@Nathancgy
+@BernieHuang2008
