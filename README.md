@@ -1,5 +1,7 @@
 # Welcome to OpenTeens Project Hub! 🌟
 
+我们提供 English | [简体中文](README_ZH.md)
+
 Hello and a massive welcome to the OpenTeens Project Hub! This is the beating heart where creative minds meet, ideas spark, and projects come to life. If you're a teenager passionate about open source and eager to make an impact alongside fellow young innovators, you've found your tribe! 🚀
 
 ## What Is OpenTeens?
